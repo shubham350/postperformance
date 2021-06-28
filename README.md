@@ -1,5 +1,7 @@
 # postperformance
 
+The dataset has the following independent variables.
+
 Category : This has Categoriacal data. Considering that it represents category for the post it is nominal.
 
 Post Month, Weekday and Hour : These variables give the time the content was put on Facebook.
